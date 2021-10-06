@@ -1,4 +1,4 @@
-# yusuf-s-discord-bot
+Hi, this is my Organization <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This organization is a place were you can see all the discord bots i have made during my porgramming carrer.
 
